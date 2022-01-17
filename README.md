@@ -3,9 +3,11 @@ Color Transfer between Images
 > This code was based on [*Ching-Yu Chia*]('https://github.com/chia56028/Color-Transfer-between-Images), who implemented of the paper [*Color Transfer between Images*](https://www.cs.tau.ac.il/~turkel/imagepapers/ColorTransfer.pdf) by Erik Reinhard, Michael Ashikhmin, Bruce Gooch and Peter Shirley.
 
 ### Example
-![eternal_sunshine_of_spotless_mind](https://github.com/alissonpina/color_transfer/blob/main/_source/eternal_sunshine_of_spotless_mind.png?raw=true)
-![minari](https://github.com/alissonpina/color_transfer/tree/main/_target/minari.png?raw=true)
-![eternal_sunshine_of_spotless_mind](https://github.com/alissonpina/color_transfer/tree/main/_output/eternal_sunshine_of_spotless_mind.png?raw=true)
+<p float="left">
+    <img src="https://github.com/alissonpina/color_transfer/blob/main/_source/eternal_sunshine_of_spotless_mind.png?raw=true" width="250" height="170">
+    <img src="https://github.com/alissonpina/color_transfer/tree/main/_target/minari.png?raw=true" width="250" height="170">
+    <img src="https://github.com/alissonpina/color_transfer/tree/main/_output/eternal_sunshine_of_spotless_mind.png" width="250" height="170">
+</p>
 
 ### Install Packages
 ```bash
