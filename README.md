@@ -5,8 +5,8 @@ Color Transfer between Images
 ### Example
 <p float="left">
     <img src="https://github.com/alissonpina/color_transfer/blob/main/_source/eternal_sunshine_of_spotless_mind.png?raw=true" width="250" height="170">
-    <img src="https://github.com/alissonpina/color_transfer/tree/main/_target/minari.png?raw=true" width="250" height="170">
-    <img src="https://github.com/alissonpina/color_transfer/tree/main/_output/eternal_sunshine_of_spotless_mind.png" width="250" height="170">
+    <img src="https://github.com/alissonpina/color_transfer/blob/main/_target/minari.png?raw=true" width="250" height="170">
+    <img src="https://github.com/alissonpina/color_transfer/blob/main/_output/eternal_sunshine_of_spotless_mind.png" width="250" height="170">
 </p>
 
 ### Install Packages
