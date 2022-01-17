@@ -1,6 +1,6 @@
 Color Transfer between Images
 ======
-> This code was based on [*Ching-Yu Chia*]('https://github.com/chia56028/Color-Transfer-between-Images), who implemented of the paper [*Color Transfer between Images*](https://www.cs.tau.ac.il/~turkel/imagepapers/ColorTransfer.pdf) by Erik Reinhard, Michael Ashikhmin, Bruce Gooch and Peter Shirley.
+> This code was based on [*Ching-Yu Chia*](https://github.com/chia56028/Color-Transfer-between-Images), who implemented of the paper [*Color Transfer between Images*](https://www.cs.tau.ac.il/~turkel/imagepapers/ColorTransfer.pdf) by Erik Reinhard, Michael Ashikhmin, Bruce Gooch and Peter Shirley.
 
 ### Example
 <p float="left">
